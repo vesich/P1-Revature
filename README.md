@@ -1,4 +1,4 @@
-## This is my Revature P1 Project
+## This is my P1 Project at Revature
 
 Environment/ Technologies used: 
 
